@@ -8,7 +8,7 @@ h1{
 }
 li{
     display: inline;
-    margin-right: 20PX;
+    margin-right: 4%;
     border: solid brown;
     border-radius: 10px;
     background-color: rgb(32, 19, 219);
@@ -19,7 +19,7 @@ li{
 
 }
 img{
-    margin-right: 50px;
+    margin-right: 6%;
   
     height: auto;
 }
@@ -41,7 +41,7 @@ h3{
     text-decoration: solid;
     em{
         color: red;
-        margin-right: 80px;
+        margin-right: 8%;
     }
 
 }
@@ -52,4 +52,15 @@ hr{
 .formulaire{
     background-color: aquamarine;
    background-image: url(./css/foto.jpg);
+}
+@media sreen and (max-width:768px){
+    body{
+        background: lightblue
+    }
+}
+}
+@media sreen and (max-width:768px){
+    h1{
+        font-size: 20px;
+    }
 }
