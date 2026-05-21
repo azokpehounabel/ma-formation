@@ -1,0 +1,55 @@
+h1{
+    text-transform: uppercase;
+    text-align: center;
+    text-decoration: solid;
+    color: rgb(111, 0, 255);
+    border-radius: 10px;
+    background-color: blanchedalmond;
+}
+li{
+    display: inline;
+    margin-right: 20PX;
+    border: solid brown;
+    border-radius: 10px;
+    background-color: rgb(32, 19, 219);
+    color:beige ;
+    text-transform: uppercase;
+    padding: 5px;
+    font-weight: 20px;
+
+}
+img{
+    margin-right: 50px;
+  
+    height: auto;
+}
+h3{
+    text-align: center;
+    color: aliceblue;
+    background-color: blueviolet;
+    border: solid;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.reponse{
+    background-color: aqua;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    font-weight: 20px;
+    text-align: right ;
+    
+    text-decoration: solid;
+    em{
+        color: red;
+        margin-right: 80px;
+    }
+
+}
+hr{
+    color: brown;
+    border: solid;
+}
+.formulaire{
+    background-color: aquamarine;
+   background-image: url(./css/foto.jpg);
+}
