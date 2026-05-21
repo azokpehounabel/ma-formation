@@ -65,9 +65,10 @@ hr{
     }
      ul{
         
-        flex-direction: column;
-        align-items: center;
-
+       display: flex;
+       justify-content: center;
+       gap: 15px
+    
      }
         li{
             display: inline-block;
