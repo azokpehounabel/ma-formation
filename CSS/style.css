@@ -5,19 +5,7 @@ h1{
     color: rgb(111, 0, 255);
     border-radius: 10px;
     background-color: blanchedalmond;
-    position: relative;
-    animation-name: deplacer;
-    animation-duration: 3s;
-    animation-iteration-count: infinite;
-    animation-direction: alternate-reverse;
-    @keyframes deplacer{
-        from{
-            left: 0px;
-        }
-        to{
-            left: 300px;
-        }
-    }
+    
 }
 li{
     display: inline;
