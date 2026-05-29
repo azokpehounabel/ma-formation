@@ -77,4 +77,9 @@ hr{
 
 
  }
+ .foto{
+    position: absolute;
+    margin-left: 30%;
+    margin-top: -30%;
+ }
         
