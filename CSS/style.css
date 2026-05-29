@@ -81,5 +81,15 @@ hr{
     position: absolute;
     margin-left: 30%;
     margin-top: -30%;
+    
  }
+     @media screen and{
+        .foto{
+    position: absolute;
+    margin-left: 10%;
+    margin-top: -10%;
+         
+        }
+        
+    }
         
