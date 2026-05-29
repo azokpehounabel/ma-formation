@@ -51,7 +51,7 @@ hr{
     border: solid;
 }
 .formulaire{
-    background-color: rgb(18, 193, 224);
+    background-color: rgb(35, 133, 133);
    background-image: url(./css/foto.jpg);
 }
 @media sreen and (max-width:768px){
@@ -91,4 +91,13 @@ hr{
     margin-top: -10%;
         }
     }
-        
+    footer{
+        position: relative;
+        background-color: rgb(160, 154, 154);
+        color: aliceblue;
+        }
+    
+
+    .nav-link{
+       color: aliceblue;"
+    }
