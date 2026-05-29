@@ -51,7 +51,7 @@ hr{
     border: solid;
 }
 .formulaire{
-    background-color: aquamarine;
+    background-color: rgb(236, 186, 238);
    background-image: url(./css/foto.jpg);
 }
 @media sreen and (max-width:768px){
@@ -85,7 +85,7 @@ hr{
  }
      @media screen and (max-width:768px){
         .foto{
-    position: absolute;
+    position: relative;
     margin-left: 10%;
     margin-top: -10%;
         }
